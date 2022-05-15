@@ -27,7 +27,7 @@ body
 a
 {
     text-decoration: line-through;
-    color:#505050;
+    color:red;
 }
 .postagem
 {
@@ -50,5 +50,10 @@ a
     margin-bottom: 15px;
     width: 35%;
 }
+.lista_de_paginas li a
+{
+    text-decoration: none;
+}
+
 
 
